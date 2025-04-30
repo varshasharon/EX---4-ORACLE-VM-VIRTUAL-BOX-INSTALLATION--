@@ -342,6 +342,9 @@ find <directory> -name <file_name>
 
 Register number : 212222100058
 
+![image](https://github.com/user-attachments/assets/731f3ccf-9712-4c6d-9564-63c7816077f9)
+![image](https://github.com/user-attachments/assets/31a1d8c8-4f58-42e7-a552-1c36ccadccbc)
+
 ![image](https://github.com/user-attachments/assets/1f1be76d-8a8c-4eb2-a77e-53a0f4924a25)
 ![image](https://github.com/user-attachments/assets/637ee69d-a4ff-4cf1-9f65-2d8095aed350)
 ![WhatsApp Image 2025-02-26 at 13 59 24_1c603799](https://github.com/user-attachments/assets/bdb5a52e-f093-4767-9cb1-0c4ffc8fe11f)
